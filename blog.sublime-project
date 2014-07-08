@@ -1,0 +1,18 @@
+{
+	"folders":
+	[
+		{
+			"path": "/F/blog"
+		}
+	],
+    "settings":
+    {
+        "less2css":
+        {
+            "lessBaseDir": "less",
+            "outputDir": "bootstrap-custom\\css",
+            "main_file": "custom.bootstrap.less",
+            "minify": true
+        }
+    }
+}
